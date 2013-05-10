@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/hendery/Desktop/lib/commons-codec-1.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/hendery/Desktop/lib/commons-logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/hendery/Desktop/lib/filterbuilder.jar"/>
-	<classpathentry kind="lib" path="C:/Users/hendery/Desktop/lib/fluent-hc-4.2.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/hendery/Desktop/lib/htmllexer.jar"/>
-	<classpathentry kind="lib" path="C:/Users/hendery/Desktop/lib/htmlparser.jar"/>
-	<classpathentry kind="lib" path="C:/Users/hendery/Desktop/lib/httpclient-4.2.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/hendery/Desktop/lib/httpclient-cache-4.2.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/hendery/Desktop/lib/httpcore-4.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/hendery/Desktop/lib/httpmime-4.2.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/hendery/Desktop/lib/sitecapturer.jar"/>
-	<classpathentry kind="lib" path="C:/Users/hendery/Desktop/lib/thumbelina.jar"/>
+	<classpathentry kind="src" path="lib"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/filterbuilder.jar"/>
+	<classpathentry kind="lib" path="lib/fluent-hc-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/htmllexer.jar"/>
+	<classpathentry kind="lib" path="lib/htmlparser.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/sitecapturer.jar"/>
+	<classpathentry kind="lib" path="lib/thumbelina.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

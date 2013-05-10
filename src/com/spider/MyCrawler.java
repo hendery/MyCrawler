@@ -253,7 +253,7 @@ public class MyCrawler
 		//new MyCrawler().downloadPageFrom("http://blog.csdn.net/hustluy/article/details/8482430");
 		
 		//Generate a dir to store data crawled
-		
+		//this is a update
 		new MyCrawler().beginCrawling(MyCrawler.rootUrl);
 		System.out.println("Game Over!");
 	}
