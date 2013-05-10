@@ -248,13 +248,14 @@ public class MyCrawler
 		
 	}
 	
-	public static void main(String[] args) 
+	public static void main(String[] args) throws Exception
 	{
 		//new MyCrawler().downloadPageFrom("http://blog.csdn.net/hustluy/article/details/8482430");
 		
 		//Generate a dir to store data crawled
 		//this is a update
 		new MyCrawler().beginCrawling(MyCrawler.rootUrl);
+		Thread.sleep(1000);
 		System.out.println("Game Over!");
 	}
 
